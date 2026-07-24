@@ -1,62 +1,223 @@
-<a href="https://app.daily.dev/tototo"><img src="https://api.daily.dev/devcards/v2/RUdgsu9JScW3g7yY3ESBC.png?type=default&r=6ct" width="356" alt="Gothmog of Hell"/></a>
-<!---
-ToTo1403/ToTo1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- Header -->
-<p align="center">
-  <img src="https://api.daily.dev/devcards/v2/RUdgsu9JScW3g7yY3ESBC.png?type=default&r=6ct" width="150">
+<div align="center">
+
+# 👋 Hi, I'm To To
+
+### Senior iOS Developer • Swift • UIKit • SwiftUI • Mobile SDK Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Senior+iOS+Developer;Swift+%7C+UIKit+%7C+SwiftUI;Mobile+SDK+Engineer;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```swift
+struct Developer {
+
+    let name = "To To"
+
+    let role = "Senior iOS Developer"
+
+    let language = "Swift"
+
+    let frameworks = [
+        "UIKit",
+        "SwiftUI",
+        "Combine",
+        "Foundation",
+        "CoreData",
+        "AVFoundation"
+    ]
+
+    let architecture = [
+        "MVVM",
+        "Clean Architecture",
+        "Modular Architecture"
+    ]
+
+    let interests = [
+        "Performance",
+        "Animations",
+        "SDK Development",
+        "AI Integration",
+        "Security"
+    ]
+
+}
+```
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=swift"/>
+
 </p>
 
-<!-- Name -->
-<h1 align="center">Hello, I'm Dita Suhito 👋</h1>
-<h3 align="center">🚀 iOS Developer | Swift | UIKit | SwiftUI </h3>
+---
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=social" />
+## Apple Frameworks
+
+<p>
+
+<img src="https://img.shields.io/badge/UIKit-blue?style=for-the-badge&logo=apple"/>
+
+<img src="https://img.shields.io/badge/SwiftUI-black?style=for-the-badge&logo=swift"/>
+
+<img src="https://img.shields.io/badge/Combine-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CoreData-lightgrey?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AVFoundation-red?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 📱 About Me
-- 💻 iOS Developer with experience in **Swift, UIKit, and SwiftUI**
-- 🚀 Passionate about **building smooth UI/UX experiences**
-- 🛠️ Open to **collaborations and iOS open-source projects**
+## Backend / Cloud
 
----
+<p>
 
-### 🔧 **Tech Stack**
-#### 🖥️ Programming & Frameworks:
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-%230078D7.svg?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-%230078D7.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-%23FF9900.svg?style=for-the-badge&logo=apple&logoColor=white)
+<img src="https://skillicons.dev/icons?i=firebase"/>
 
-#### ⚙️ Tools:
-![Xcode](https://img.shields.io/badge/Xcode-007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-E44D27?style=for-the-badge&logo=cocoapods&logoColor=white)
-![SPM](https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-%2300F200.svg?style=for-the-badge&logo=fastlane&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ToTo1403&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToTo1403&theme=tokyonight" width="400" />
 </p>
 
 ---
 
-### 📫 **Connect with Me**
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github"/>
+
+<img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane"/>
+
+<img src="https://img.shields.io/badge/SPM-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CocoaPods-red?style=for-the-badge"/>
+
+</p>
 
 ---
 
+## Tools
 
-🔥 **Let’s build amazing iOS apps together!** 🚀
+<p>
+
+<img src="https://skillicons.dev/icons?i=xcode,vscode,figma"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ToTo1403&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToTo1403&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ToTo1403&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToTo1403&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ToTo1403&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 AI on iOS
+- LLM Integration
+- CoreML
+- Vision Framework
+- Swift Concurrency
+- Mobile SDK Design
+
+---
+
+# 💼 Current Focus
+
+✅ Clean Architecture
+
+✅ Swift Concurrency
+
+✅ Performance Optimization
+
+✅ SDK Development
+
+✅ AI-powered Mobile Apps
+
+---
+
+# 🌎 Connect With Me
+
+<p>
+
+<a href="https://github.com/ToTo1403">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+</p>
+
+---
+
+# ☕ Daily.dev
+
+<p align="center">
+
+<a href="https://app.daily.dev/tototo">
+
+<img width="340" src="https://api.daily.dev/devcards/v2/RUdgsu9JScW3g7yY3ESBC.png?type=default&r=6ct"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐️ Thanks for visiting my profile!
+
+![](https://komarev.com/ghpvc/?username=ToTo1403&style=for-the-badge)
+
+</div>
