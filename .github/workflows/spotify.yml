@@ -1,0 +1,44 @@
+#
+//  spotify.yml
+//  
+//
+//  Created by Suhito Dita on 24/7/26.
+//
+name: Spotify Now Playing
+
+
+on:
+
+  schedule:
+
+    - cron: "*/10 * * * *"
+
+
+  workflow_dispatch:
+
+
+
+jobs:
+
+
+  spotify:
+
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+
+      - uses: actions/checkout@v4
+
+
+      - uses: kittinan/spotify-github-profile@main
+
+
+        with:
+
+
+          token: ${{ secrets.SPOTIFY_TOKEN }}
+
+          username: ToTo1403
